@@ -1,0 +1,436 @@
+Uri: https://ekb-edu.vercel.app/
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/avtoslesar.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\avtoslesar.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/chistilshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\chistilshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/default.jpg
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\default-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ekb-edu.vercel.app/drobilshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\drobilshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/elektrogazosvarshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\elektrogazosvarshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/elektromekhanik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\elektromekhanik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/elektromontazhnik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\elektromontazhnik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/formovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\formovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/gruzchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\gruzchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/instruktor.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\instruktor.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/ispytatel.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\ispytatel.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/izgotovitel.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\izgotovitel.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/js/aff-wrap.ecolespb.js
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\js\aff-wrap.ecolespb-1.js
+Content Type: application/x-javascript
+
+Uri: https://ekb-edu.vercel.app/kalibrovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\kalibrovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/komplektovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\komplektovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/krasota.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\krasota.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/krovelshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\krovelshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/kursy-elektroslesar.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\kursy-elektroslesar.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/kursy-laborant.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\kursy-laborant.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/kursy-mekhanik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\kursy-mekhanik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/mashinist-krana.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\mashinist-krana.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/master.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\master.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/mladshij-medpersonal.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\mladshij-medpersonal.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/modelshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\modelshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/mojshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\mojshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/montirovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\montirovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/motorist.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\motorist.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/naborshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\naborshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/naladchika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\naladchika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/namotchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\namotchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/oblicovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\oblicovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obrabotchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obrabotchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-agenta.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-agenta.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-apparatchika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-apparatchika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-brigadira.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-brigadira.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-burilshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-burilshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-defektoskopista.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-defektoskopista.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-dezhurnogo.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-dezhurnogo.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-elektromontera.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-elektromontera.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-frezerovshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-frezerovshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-gornorabochego.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-gornorabochego.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-izolirovshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-izolirovshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-kassira.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-kassira.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-kladovshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-kladovshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-kontrolera.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-kontrolera.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-kuznecza.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-kuznecza.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-liftera.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-liftera.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-litejshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-litejshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-malyara.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-malyara.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-mashinista.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-mashinista.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-montazhnika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-montazhnika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-otdelochnika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-otdelochnika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-plavilshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-plavilshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-shlifovshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-shlifovshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-shtampovshhika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-shtampovshhika.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/obuchenie-na-tokarya.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\obuchenie-na-tokarya.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/operator.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\operator.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/pechatnik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\pechatnik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/pechevoj.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\pechevoj.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/pekar.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\pekar.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/podruchnyj.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\podruchnyj.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/pomoshchnik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\pomoshchnik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/povar-konditer.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\povar-konditer.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/povar.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\povar.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/pressovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\pressovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/priemshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\priemshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/prigotovitel.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\prigotovitel.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/privacy.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\privacy.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/prodavets.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\prodavets.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/professii-razlichnyh-otraslej.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\professii-razlichnyh-otraslej.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rabochie.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rabochie.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/regulirovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\regulirovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/remont.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\remont.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/remontirovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\remontirovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/restavrator.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\restavrator.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rezchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rezchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-avtomatchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-avtomatchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-dozirovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-dozirovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-klejshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-klejshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-krasilshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-krasilshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-lakirovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-lakirovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-nakatchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-nakatchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-obzhigalshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-obzhigalshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-polirovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-polirovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-propitchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-propitchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-razmetchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-razmetchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-sborshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-sborshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-sortirovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-sortirovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-sushilshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-sushilshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-travilshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-travilshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-uborshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-uborshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-upakovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-upakovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-vakuumshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-vakuumshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-varshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-varshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-zagotovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-zagotovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-zagruzchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-zagruzchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/rs-zalivshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\rs-zalivshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/semshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\semshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/slesar.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\slesar.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/sostavitel.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\sostavitel.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/stanochnik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\stanochnik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/svarshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\svarshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/traktorist-mashinist.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\traktorist-mashinist.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/ukladchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\ukladchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/ustanovshchik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\ustanovshchik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/valtsovshhik.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\valtsovshhik.php.html
+Content Type: text/html
+
+Uri: https://ekb-edu.vercel.app/voditel-pogruzchika.php
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\voditel-pogruzchika.php.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/104699306
+File Name: C:\Downloaded Web Sites\ekb-edu.vercel.app\watch\104699306-1
+Content Type: image/gif
+
